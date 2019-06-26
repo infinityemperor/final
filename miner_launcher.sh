@@ -8,3 +8,4 @@
     sleep $DELAY
     cd /usr/local/claymore
     su emperor -c "screen -dmS ethm ./start.bash"
+    su emperor -c "screen -dmS ethm ./start1.bash"
